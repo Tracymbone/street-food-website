@@ -1,14 +1,104 @@
-ul {
+/* header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.subheading1 {
+    display: flex;
+    justify-content:flex-start;
+} */
+.star img {
+    height: 50px;
+
+}
+
+.subheading1 ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.star {
+
+    display: flex;
+    flex-direction: column;
+}
+.star p { 
+    font-weight: bold;
+
+}
+.street_food p {
+    text-align: left;
+    width: 200px;
+
+}
+.street_food h1 {
+    font-size: xx-large;
+}
+.Eat_together {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-header{
-    background-color: rgb(189, 181, 181);
+    width: 80%;
+    margin: auto;
 
-    
 }
-div{
-    float: left;
+.Eat_together #text{
+    width: 30%;
 }
-
+.item-content-main{
+    display: flex;
+    justify-content: space-between;
+}
+.Explore_Menu{
+    background-color: #EAF3E4;
+    padding-bottom: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+}
+.sub-content{
+    display: flex;
+}
+.content{
+    background-color: white;
+    border-radius: 0px 0px 50px 0px;
+    width: 300px;
+    height: 130px;
+}
+.content img{
+    transform: translate(-80px, -40px);
+}
+.coll p{
+    transform: translate(-50px, -30px);
+}
+.list-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 40px;
+}
+.street_food_images{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    border: 2px dotted #8DBD72;
+}
+.texts{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 100px;
+    justify-content: space-around;
+}
+#images1{
+    transform: translate(-60px, 200px);
+}
+#images2{
+    transform: translate(-100px, 30px);
+}
+#image3{
+    transform: translate(30px, -80px);
+}
+#image4{
+    transform: translate(40px, -40px);
+    justify content: ;
+}
