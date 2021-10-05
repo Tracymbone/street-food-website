@@ -8,5 +8,4 @@ This project aims at advertising the street food and its speciall dishes which i
 This program of street food is also found in other medias.It well describes our services.
 ## view link
 
-https://drive.google.com/drive/folders/1m39zuC6FevjbZvdxNAY27-9Dozb2U39_?usp=sharing
-
+https://tracymbone.github.io/street-food-website/
